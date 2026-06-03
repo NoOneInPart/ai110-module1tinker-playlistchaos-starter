@@ -1,0 +1,8 @@
+confusing, inconsistent, strange
+Can add duplicate tracks to the playlist
+Lucky pick does not add songs from the mixed playlist (not necessarily a bug)
+(fixed) What does the hype ratio even do
+    it's supposed to provide the proportion of how many songs are hype but it's broken
+(fixed) How does hype min energy and chill max energy work in the mood profile?
+What is the point of the mixed playlist view and how does it work
+    if you filter stuff out of the other playlists using min/max energy filters, it moves to the Mixed playlist
